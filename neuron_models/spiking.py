@@ -1,5 +1,5 @@
 import numpy as np
-from neuron.neuron import NeuronModel
+from neuron_models.neuron import NeuronModel
 
 class Izhikevich(NeuronModel):
     '''...'''
